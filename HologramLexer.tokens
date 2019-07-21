@@ -1,0 +1,17 @@
+NEW=1
+D3=2
+D2=3
+SOLIDO=4
+FIGURA=5
+NUM=6
+ARISTA=7
+AMARILLO=8
+ROJO=9
+BLANCO=10
+AZUL=11
+ESPACIO=12
+ID=13
+'amarillo'=8
+'rojo'=9
+'blanco'=10
+'azul'=11
